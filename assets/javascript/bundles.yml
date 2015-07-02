@@ -1,0 +1,7 @@
+---
+- :output_file: main.js
+  :input_directories:
+    - main
+  :input_files:
+  - host_map.js
+  - http://downloads.moovweb.com/plutonium/0.1.95/passthrough_ajax.js

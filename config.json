@@ -1,0 +1,6 @@
+{
+  "host_map": [
+    "$.cc.co.uk => www.cc.co.uk",
+    "$.cc.co.uk => cc.co.uk"
+  ]
+}
